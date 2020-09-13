@@ -6,7 +6,7 @@ HDC main_hdc, canvas_hdc;
 
 int main()
 {
-	srand((unsigned)time(NULL)); // 定义随机数种子
+	//srand((unsigned)time(NULL)); // 定义随机数种子
 
 	// 初始化音效资源
 	InitSounds();
